@@ -1,0 +1,10 @@
+body { font-family: sans-serif; margin:0; padding:0; line-height:1.5; }
+header, footer { background:#f080ce; padding:10px; text-align:center; }
+nav a { margin:0 10px; }
+main { padding:20px; }
+.hero { background:url('hero.jpg') center/cover; color:#d161e7; padding:100px 20px; text-align:center;}
+section { margin-bottom:30px; }
+h2, h3 { color:#333; }
+ul { list-style:none; padding:0; }
+ul li { margin-bottom:10px; }
+img { max-width:100%; height:auto; display:block; margin:20px 0; }
